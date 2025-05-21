@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Подтверждение возраста</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    .container {
+      max-width: 500px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 30px;
+    }
+    .button {
+      background-color: #28a745;
+      color: white;
+      padding: 15px 30px;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Вам есть 21 год?</h1>
+    <a class="button" href="https://1redlink.com/h5de4b779">Да</a>
+  </div>
+</body>
+</html>
